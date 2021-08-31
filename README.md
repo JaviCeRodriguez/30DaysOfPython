@@ -11,6 +11,6 @@ Desafío de 30 días en Python, propuesto en el [repositorio de Asabeneh](https:
     <tr>
         <td>1</td>
         <td>Introducción</td>
-        <td>[Solución](./day_1) </td>
+        <td><a href="https://github.com/JaviCeRodriguez/30DaysOfPython/tree/main/day_1">Solución</a></td>
     </tr>
 </table>
