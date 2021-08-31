@@ -1,0 +1,16 @@
+print('1. Different Python data types')
+print(4, type(4))
+print(3.2, type(3.2))
+print(4 + 3j, type(4 + 3j))
+print('Sarasa', type('Sarasa'))
+print(True, type(True))
+print(['coso', 'cosito'], type(['coso', 'cosito']))
+print((1, 2, 3), type((1, 2, 3)))
+print({'hola', 'mundo'}, type({'hola', 'mundo'}))
+print({'numero': 2}, type({'numero': 2}))
+
+print('\n2. Distancia Euclidiana')
+p = (2, 3)
+q = (10, 8)
+d = ((p[0] - q[0])**2 + (p[1] - q[1])**2) ** 1/2
+print(f'Distancia entre p y q: {d}')
