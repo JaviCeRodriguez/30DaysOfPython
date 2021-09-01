@@ -13,4 +13,9 @@ Desafío de 30 días en Python, propuesto en el [repositorio de Asabeneh](https:
         <td>Introducción</td>
         <td><a href="https://github.com/JaviCeRodriguez/30DaysOfPython/tree/main/day_1">Solución</a></td>
     </tr>
+    <tr>
+        <td>2</td>
+        <td>Variables, Builtin Functions</td>
+        <td><a href="https://github.com/JaviCeRodriguez/30DaysOfPython/tree/main/day_2">Solución</a></td>
+    </tr>
 </table>
