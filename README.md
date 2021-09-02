@@ -18,4 +18,9 @@ Desafío de 30 días en Python, propuesto en el [repositorio de Asabeneh](https:
         <td>Variables, Builtin Functions</td>
         <td><a href="https://github.com/JaviCeRodriguez/30DaysOfPython/tree/main/day_2">Solución</a></td>
     </tr>
+    <tr>
+        <td>3</td>
+        <td>Operators</td>
+        <td><a href="https://github.com/JaviCeRodriguez/30DaysOfPython/tree/main/day_3">Solución</a></td>
+    </tr>
 </table>
