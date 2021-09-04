@@ -23,4 +23,14 @@ Desafío de 30 días en Python, propuesto en el [repositorio de Asabeneh](https:
         <td>Operators</td>
         <td><a href="https://github.com/JaviCeRodriguez/30DaysOfPython/tree/main/day_3">Solución</a></td>
     </tr>
+    <tr>
+        <td>4</td>
+        <td>Strings</td>
+        <td><a href="https://github.com/JaviCeRodriguez/30DaysOfPython/tree/main/day_4">Solución</a></td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Lists</td>
+        <td><a href="https://github.com/JaviCeRodriguez/30DaysOfPython/tree/main/day_5">Solución</a></td>
+    </tr>
 </table>
