@@ -33,4 +33,9 @@ Desafío de 30 días en Python, propuesto en el [repositorio de Asabeneh](https:
         <td>Lists</td>
         <td><a href="https://github.com/JaviCeRodriguez/30DaysOfPython/tree/main/day_5">Solución</a></td>
     </tr>
+    <tr>
+        <td>6</td>
+        <td>Tuples</td>
+        <td><a href="https://github.com/JaviCeRodriguez/30DaysOfPython/tree/main/day_6">Solución</a></td>
+    </tr>
 </table>
