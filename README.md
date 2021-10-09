@@ -63,4 +63,14 @@ Desafío de 30 días en Python, propuesto en el [repositorio de Asabeneh](https:
         <td>🛑 Functions</td>
         <td><a href="https://github.com/JaviCeRodriguez/30DaysOfPython/tree/main/day_11">Solución</a></td>
     </tr>
+    <tr>
+        <td>12</td>
+        <td>✅ Modules</td>
+        <td><a href="https://github.com/JaviCeRodriguez/30DaysOfPython/tree/main/day_12">Solución</a></td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>✅ List Comprehension</td>
+        <td><a href="https://github.com/JaviCeRodriguez/30DaysOfPython/tree/main/day_13">Solución</a></td>
+    </tr>
 </table>
